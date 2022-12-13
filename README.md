@@ -29,5 +29,5 @@ Data Analyst, *Karpov.Courses*
 Statistics fundamentals course (Anatoly Karpov), *Stepik*
 
 ### Контакты
-vyacheslavnikif@gmail.com 
+vyacheslavnikif@gmail.com   
 Telegram [@SlavaAnalyst](https://t.me/SlavaAnalyst)
