@@ -11,7 +11,7 @@
 
 ### Hard skills
 **Python**: `pandas` `numpy` `matplotlib` `seaborn` `plotly` `scipy` `statsmodels`  
-**SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc` 
+**SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc`   
 **Math**: `statistics` `probability theory` `A/B tests` `Bootstrap`  
 **BI**: `Tableau` `PowerBI` `DAX`  
 **Misc.**: `Git` `API` `Excel` `English B1`
@@ -25,9 +25,9 @@
 - Принимаю решения, отвечаю за результат
 
 ### Курсы
-Data Analyst, Karpov.Courses 
-Statistics fundamentals course (Anatoly Karpov), Stepik
+Data Analyst, *Karpov.Courses*  
+Statistics fundamentals course (Anatoly Karpov), *Stepik*
 
 ### Контакты
-vyacheslavnikif@gmail.com  
+vyacheslavnikif@gmail.com 
 Telegram [@SlavaAnalyst](https://t.me/SlavaAnalyst)
