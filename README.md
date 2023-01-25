@@ -14,7 +14,7 @@
 **SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc`   
 **Math**: `statistics` `probability theory` `A/B tests` `Bootstrap`  
 **BI**: `Tableau` `PowerBI` `DAX`  
-**Misc.**: `Git` `API` `Excel` `English B1`
+**Misc.**: `Git` `API` `Excel` `English A2`
 
 ### Soft skills
 - Погружаюсь в работу
