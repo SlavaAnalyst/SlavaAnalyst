@@ -12,7 +12,7 @@
 ### Hard skills
 **Python**: `pandas` `numpy` `matplotlib` `seaborn` `plotly` `scipy` `statsmodels`  
 **SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc`   
-**Math**: `statistics` `probability theory` `A/B tests` `Bootstrap`  
+**Math**: `A/B tests` `statistics` `probability theory` `Bootstrap`  
 **BI**: `Tableau` `Redash`  
 **Misc.**: `Git` `API` `Excel` `English A2`
 
