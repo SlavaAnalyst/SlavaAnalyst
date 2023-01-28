@@ -10,7 +10,7 @@
 Вдохновляют блоги Анатолия Карпова, Глеба Михайлова, Leftjoin и Noukash.    
 
 ### Hard skills
-**Python**: `pandas` `numpy` `matplotlib` `seaborn` `plotly` `scipy` `statsmodels`  
+**Python**: `pandas` `numpy` `scipy` `matplotlib` `seaborn` `plotly` `statsmodels`  
 **SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc`   
 **Math**: `A/B tests` `statistics` `probability theory` `Bootstrap`  
 **BI**: `Tableau` `Redash`  
