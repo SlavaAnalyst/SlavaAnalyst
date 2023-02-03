@@ -26,7 +26,7 @@
 
 ### Курсы
 Data Analyst, *Karpov.Courses*  
-Statistics fundamentals course (Anatoly Karpov), *Stepik*
+Statistics fundamentals course (Anatoly Karpov), *Stepik*  
 
 ### Контакты
 vyacheslavnikif@gmail.com   
