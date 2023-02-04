@@ -25,7 +25,7 @@
 - Принимаю решения, отвечаю за результат
 
 ### Курсы
-Data Analyst, *Karpov.Courses*  
+Data Analyst, *Karpov.Courses*   
 Statistics fundamentals course (Anatoly Karpov), *Stepik*  
 
 ### Контакты
