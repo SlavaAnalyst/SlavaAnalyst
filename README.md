@@ -14,7 +14,7 @@
 **SQL**: `ClickHouse` `joins` `CTE` `subqueries` `window functions` `Ad hoc`   
 **Math**: `A/B tests` `statistics` `probability theory` `Bootstrap`  
 **BI-tools**: `Tableau` `Redash`  `Dash`  
-**Misc.**: `Apache Airflow` `Git` `API` `Excel` `English A2`
+**Misc.**: `Apache Airflow` `Git` `API` `Excel` `English A2`  
 
 ### Soft skills
 - Погружаюсь в работу
