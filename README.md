@@ -15,7 +15,7 @@
 **Math**: `A/B tests` `statistics` `probability theory` `Bootstrap`  
 **BI-tools**: `Tableau` `Redash`  `Dash`  `Yandex DataLens`    
 **Misc.**: `Apache Airflow` `Git` `API` `Excel` `English A2`  
-
+  
 ### Soft skills
 - Погружаюсь в работу
 - Хорошо коммуницирую с людьми
